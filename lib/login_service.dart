@@ -1,3 +1,4 @@
 class LoginService {
-  String loginToken = 'my_login_token';
+  String accessToken = 'my_access_token';
+  String refreshToken = 'my_refresh_token';
 }
