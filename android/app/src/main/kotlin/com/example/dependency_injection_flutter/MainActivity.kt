@@ -1,4 +1,4 @@
-package com.example.dependency_injection_flutter
+package com.example.service_locator_flutter
 
 import android.os.Bundle
 

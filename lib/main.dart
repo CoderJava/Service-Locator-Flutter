@@ -1,6 +1,6 @@
-import 'package:dependency_injection_flutter/injector.dart';
-import 'package:dependency_injection_flutter/login_service.dart';
-import 'package:dependency_injection_flutter/user_profile.dart';
+import 'package:service_locator_flutter/injector.dart';
+import 'package:service_locator_flutter/login_service.dart';
+import 'package:service_locator_flutter/user_profile.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Dependency Injection'),
+        title: Text('Service Locator'),
       ),
       body: Center(
         child: Column(

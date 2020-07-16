@@ -1,6 +1,6 @@
-# dependency_injection_flutter
+# service_locator_flutter
 
-Demonstrate how to create dependency injection with Flutter
+Demonstrate how to create service locator with Flutter
 
 ## Getting Started
 

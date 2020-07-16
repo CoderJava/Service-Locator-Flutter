@@ -1,5 +1,5 @@
-import 'package:dependency_injection_flutter/login_service.dart';
-import 'package:dependency_injection_flutter/user_profile.dart';
+import 'package:service_locator_flutter/login_service.dart';
+import 'package:service_locator_flutter/user_profile.dart';
 import 'package:get_it/get_it.dart';
 
 GetIt locator = GetIt.instance;
